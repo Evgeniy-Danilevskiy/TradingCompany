@@ -1,0 +1,11 @@
+C:\Users\danil\Source\Repos\TradingCompany\DAL\bin\Debug\DAL.dll
+C:\Users\danil\Source\Repos\TradingCompany\DAL\bin\Debug\DAL.pdb
+C:\Users\danil\Source\Repos\TradingCompany\DAL\bin\Debug\AutoMapper.dll
+C:\Users\danil\Source\Repos\TradingCompany\DAL\bin\Debug\DTO.dll
+C:\Users\danil\Source\Repos\TradingCompany\DAL\bin\Debug\DTO.pdb
+C:\Users\danil\Source\Repos\TradingCompany\DAL\bin\Debug\AutoMapper.xml
+C:\Users\danil\Source\Repos\TradingCompany\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\danil\Source\Repos\TradingCompany\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\danil\Source\Repos\TradingCompany\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\danil\Source\Repos\TradingCompany\DAL\obj\Debug\DAL.dll
+C:\Users\danil\Source\Repos\TradingCompany\DAL\obj\Debug\DAL.pdb

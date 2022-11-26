@@ -1,0 +1,15 @@
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\bin\Debug\TradingCompany.exe.config
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\bin\Debug\TradingCompany.exe
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\bin\Debug\TradingCompany.pdb
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\bin\Debug\BusinessLogic.dll
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\bin\Debug\DAL.dll
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\bin\Debug\DTO.dll
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\bin\Debug\BusinessLogic.pdb
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\bin\Debug\DAL.pdb
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\bin\Debug\DTO.pdb
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\obj\Debug\ConsoleProject.csproj.AssemblyReference.cache
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\obj\Debug\ConsoleProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\obj\Debug\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\obj\Debug\ConsoleProject.csproj.CopyComplete
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\obj\Debug\TradingCompany.exe
+C:\Users\danil\Source\Repos\TradingCompany\TradingCompany\obj\Debug\TradingCompany.pdb
